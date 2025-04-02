@@ -1,0 +1,347 @@
+body {
+background-color: rgb(237, 241, 209);
+color: #136368;
+
+}
+
+
+
+.bgc {
+
+    background-color: #136368;
+}
+
+.btn_home {
+   
+    width: 300px;
+    height: 80px;
+    border-radius: 2px;
+    background-color: orangered;
+    color: white;
+    border-width: 5px;
+    
+}
+
+
+.navp {
+
+    padding-left: 50px;
+
+}
+
+.slide {
+
+    margin-left: 68%;
+    width: 30%;
+    margin-top: 1%;
+}
+
+.txt1 {
+    margin-top: 2%;
+    margin-left: 70%;
+
+}
+
+.black {
+    background-color: #136368;
+    width: 500px;
+    margin-left: 1350px;
+    border-style: solid;
+    border-color: #136368;
+    border-radius: 10px;
+}
+
+.img {
+
+    border-radius: 80px;
+
+}
+
+.botao1 {
+    
+    position: absolute;
+    top: 100px;
+    right: 1180px;
+    width: 700px;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #D9D9D9;
+    color: white;
+    border-width: 1px;
+    margin-left: 8%;
+    border-width: 6px;
+    border-color: white;
+    transition: all 0.3s ease;
+}
+
+
+.txt {
+   
+    color: #136368;
+    position: absolute;
+    top: 10px;
+    left: 265px;
+
+}
+
+.borracha {
+
+    background-color: #136368;
+    width: 400px;
+    border-style: solid;
+    border-color: #136368;
+    border-radius: 10px;
+    position: absolute;
+    left: 265px;
+    top: 60px;
+}
+
+.desc {
+
+    color: #136368;
+    position: absolute;
+    top: 115px;
+    left: 265px;
+    
+}
+
+.sobre {
+    
+    color: #136368;
+    position: absolute;
+    top: 80px;
+    left: 265px;
+
+
+}
+
+.end {
+
+    color: #136368;
+    position: absolute;
+    top: 150px;
+    left: 265px;
+
+}
+
+.endr {
+
+    color: #136368;
+    position: absolute;
+    top: 190px;
+    left: 230px;
+
+}
+
+
+.pneu {
+
+    position: absolute;
+    top: 50px;
+    right: 470px;
+    width: 200px;
+    height: 150px;
+    border-radius: 40px;
+
+}
+
+
+
+
+.botao2 {
+
+    position: absolute;
+    top: 380px;
+    right: 1180px;
+    width: 700px;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #D9D9D9;
+    color: white;
+    border-width: 1px;
+    margin-left: 8%;
+    border-width: 6px;
+    border-color: white;
+    transition: all 0.3s ease;
+}
+
+
+.txt2 {
+   
+    color: #136368;
+    position: absolute;
+    top: 10px;
+    left: 265px;
+
+}
+
+.traço2 {
+
+    background-color: #136368;
+    width: 400px;
+    border-style: solid;
+    border-color: #136368;
+    border-radius: 10px;
+    position: absolute;
+    left: 265px;
+    top: 60px;
+}
+
+.desc2 {
+
+    color: #136368;
+    position: absolute;
+    top: 115px;
+    left: 265px;
+    
+}
+
+.sobre2 {
+    
+    color: #136368;
+    position: absolute;
+    top: 80px;
+    left: 265px;
+
+
+}
+
+.end2 {
+
+    color: #136368;
+    position: absolute;
+    top: 150px;
+    left: 265px;
+
+}
+
+.endr2 {
+
+    color: #136368;
+    position: absolute;
+    top: 190px;
+    left: 230px;
+
+}
+
+
+.lanche {
+
+    position: absolute;
+    top: 50px;
+    right: 470px;
+    width: 200px;
+    height: 150px;
+    border-radius: 40px;
+     
+}
+
+
+
+
+
+
+
+.botao3 {
+    
+    position: absolute;
+    top: 660px;
+    right: 1180px;
+    width: 700px;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #D9D9D9;
+    color: white;
+    border-width: 1px;
+    margin-left: 8%;
+    border-width: 6px;
+    border-color: white;
+    transition: all 0.3s ease;
+    
+}
+
+.salao {
+    
+    position: absolute;
+    top: 50px;
+    right: 470px;
+    width: 200px;
+    height: 150px;
+    border-radius: 40px;
+        
+}
+
+.txt3 {
+   
+    color: #136368;
+    position: absolute;
+    top: 10px;
+    left: 265px;
+
+}
+
+.traço3 {
+
+    background-color: #136368;
+    width: 400px;
+    border-style: solid;
+    border-color: #136368;
+    border-radius: 10px;
+    position: absolute;
+    left: 265px;
+    top: 60px;
+}
+
+.desc3 {
+
+    color: #136368;
+    position: absolute;
+    top: 115px;
+    left: 265px;
+    
+}
+
+.sobre3 {
+    
+    color: #136368;
+    position: absolute;
+    top: 80px;
+    left: 265px;
+
+
+}
+
+.end3 {
+
+    color: #136368;
+    position: absolute;
+    top: 150px;
+    left: 265px;
+
+}
+
+.endr3 {
+
+    color: #136368;
+    position: absolute;
+    top: 190px;
+    left: 230px;
+
+}
+
+
+.botao1:hover {
+
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.2), -2px -2px 50px rgba(255, 255, 255, 0.10);
+
+} 
+.botao2:hover {
+
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.2), -2px -2px 50px rgba(255, 255, 255, 0.10);
+
+} 
+.botao3:hover {
+
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.2), -2px -2px 50px rgba(255, 255, 255, 0.10);
+
+} 
